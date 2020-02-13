@@ -8,4 +8,3 @@ class CreateArtists < ActiveRecord::Migration[5.2]
     end
   end
 end
-© 2020 GitHub, Inc.
